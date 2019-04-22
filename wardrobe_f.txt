@@ -1,0 +1,3 @@
+Saree: 6
+Skirt: 4
+Top: 5

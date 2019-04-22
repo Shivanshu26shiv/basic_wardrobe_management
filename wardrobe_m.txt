@@ -1,0 +1,3 @@
+Jeans: 4
+Tshirt: 3
+Shirt: 5
